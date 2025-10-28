@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/studentmanagement/src/main/java/com/example/studentmanagement/controller/StudentController.java;C:/Users/uday4/Downloads/studentmanagement/studentmanagement/src/main/java/com/example/studentmanagement/repository/StudentRepository.java;C:/Users/uday4/Downloads/studentmanagement/studentmanagement/src/main/java/com/example/studentmanagement/service/StudentService.java;C:/Users/uday4/Downloads/studentmanagement/studentmanagement/src/main/java/com/example/studentmanagement/Student.java;C:/Users/uday4/Downloads/studentmanagement/studentmanagement/src/main/java/com/example/studentmanagement/StudentmanagementApplication.java;C:/Users/uday4/Downloads/studentmanagement/studentmanagement/src/test/java/com/example/studentmanagement/StudentmanagementApplicationTests.java" />
+  </component>
+</project>
