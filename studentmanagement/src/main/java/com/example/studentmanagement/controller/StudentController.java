@@ -7,7 +7,11 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Optional;
-@CrossOrigin(origins = "https://student-management-ui.onrender.com")
+@CrossOrigin(origins = {
+        "https://student-management-ui.onrender.com",
+        "http://localhost:3000"
+})
+
 
 @RestController
 @RequestMapping("/students")
